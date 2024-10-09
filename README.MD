@@ -1,5 +1,2 @@
 # Overview of the project
-This project focuses on exploring data aimed at understanding how the evolution and delivery performance of the company Olist was during the period of 
-2017, where I carry out all the cleaning, modeling and visual creation steps of the results I achieved.
-
-More details on the actual project...
+Realizei uma análise exploratória de dados (EDA) em Python para investigar o desempenho das entregas do e-commerce Olist durante o ano de 2017. Utilizando bibliotecas como Pandas, Matplotlib e Numpy, limpei, modelei e visualizei os dados para identificar padrões relevantes. A análise gerou insights valiosos sobre a quantidade de vendas e a distribuição dos prazos de entrega. Um dos principais achados foi que o menor custo de frete em São Paulo está relacionado ao fato de concentrar 60% dos vendedores, reduzindo a distância média de entrega. Esse tipo de insight permitiu entender melhor os fatores que impactam o desempenho logístico da empresa, oferecendo suporte para possíveis otimizações operacionais.
